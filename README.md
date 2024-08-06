@@ -1,0 +1,1 @@
+# WiseOwl-SQLServer-ExercisesSolutions
